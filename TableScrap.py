@@ -34,4 +34,4 @@ for row in rows[1:]:
 print(df)
 
 # Optionally, save the DataFrame to an Excel file
-# df.to_excel("stock_data.xlsx")
+df.to_excel("stock_data.xlsx")
